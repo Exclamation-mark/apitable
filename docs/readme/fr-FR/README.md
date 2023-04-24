@@ -68,7 +68,7 @@
 
 Si vous souhaitez simplement essayer APITable1, utilisez notre version hébergée sur le cloud à apitable.com.
 
-Si vous souhaitez simplement essayer APITable1, utilisez notre version hébergée sur le cloud à apitable.com.
+If you want to demo this APITable open-source project, click here for [⚡️Gitpod Online Demo](https://gitpod.io/#https://github.com/apitable/apitable).
 
 Si vous voulez installer APITable dans votre environnement de calcul local ou cloud, voir [💾 Installation](#installation)
 
@@ -129,7 +129,7 @@ Rejoignez [Discord](https://discord.gg/TwNb9nfdBU) ou [Twitter](https://twitter.
       <a href="#">Autorisations puissantes/colonnes</a>
     </th>
     <th>
-      <a href="#">Intégrer</a>
+      <a href="#">Embed</a>
     </th>
   </tr>
 
@@ -191,7 +191,7 @@ APITable offre une gamme de fonctionnalités étonnantes, du personnel à l'entr
   - Audit
   - Sauvegarde automatique de la base de données
   - Exportateur de données
-  - Filigrane
+  - Watermark
 - ....
 
 Avec des widgets extensibles et des plugins, vous pouvez ajouter plus de fonctionnalités.
@@ -278,7 +278,7 @@ Vous pouvez contribuer de la manière suivante :
 - [Contribuer au code](./docs/contribute/developer-guide.md)
 
 
-Voici ce qui suit :
+Such as the following:
 - Rejoindre et modifier les traductions dans notre projet de traduction [Crowdin](https://crowdin.com/project/apitablecode/invite?h=f48bc26f9eb188dcd92d5eb4a66f2c1f1555185)
 - https://github.com/apitable/apitable/issues/new/choose
 - Suivre notre [Twitter](https://twitter.com/apitable_com)
@@ -326,7 +326,7 @@ Utilisez ces conventions communes APITables :
 - [👩‍💻 Centre de développement](https://developers.apitable.com/)
   - [<unk> Docs REST API](https://developers.apitable.com/api/introduction/)
   - [SDK du widget](https://developers.apitable.com/widget/introduction/)
-  - Scripting (à venir...)
+  - [Scripting Widget](https://developers.apitable.com/script/introduction/)
 
 ## 🛣 Feuille de route
 
@@ -346,11 +346,11 @@ Veuillez vous référer à la [Feuille de route de l'APITable](https://apitable.
 
 - En tant qu'IdP ;
 - SAML
-- Authentification unique
+- Single-Sign-On
 - Audit
 - Sauvegarde de la base de données
 - Intégrer avec ChatGPT, Zapier, Slack, Google Workspace......
-- Filigrane
+- Watermark
 
 Pour plus d'informations, veuillez nous contacter à <support@apitable.com>.
 
@@ -417,4 +417,4 @@ Indépendamment du temps et des conditions, si vous voulez vous impliquer dans l
 
 <br/>
 
-[^info]: Licencié avec AGPL-3.0. Conçu par [APITable Ltd](https://apitable.com).
+[^info]: Licensed with AGPL-3.0. Designed by [APITable Ltd](https://apitable.com).
